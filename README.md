@@ -6,4 +6,4 @@
 
 <img src="./翻译.png" width="150px">
 
-个人微信：17326025700
+个人微信：bnVsbCBwb2ludGVy
