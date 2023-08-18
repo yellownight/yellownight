@@ -19,6 +19,7 @@
 <img src="./不背3.jpg" width="150px">
 
 ## 打开管家
+打牌管家助手，用于打牌积分时，统一结账
 
 <img src="./打牌.jpg" width="150px">
 <img src="./打牌1.jpg" width="150px">
